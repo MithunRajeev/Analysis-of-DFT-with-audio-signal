@@ -74,5 +74,5 @@ plt.show()
 
 
 
-# RESULTS
+# RESULT:
 The audio signal was successfully analyzed using DFT, and unwanted high-frequency components were removed to obtain the filtered audio signal.
